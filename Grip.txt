@@ -1,0 +1,53 @@
+
+ Congratulation for completing your task! Graphs generated are meaningful. All the best.
+
+
+Hi
+
+can you evaluate my below task?
+
+it is mandatory for all. While submitting task submission form it asks. otherwise will not get certificate. Everyone's task need to evaluate by at least 2 interns(in the form of commenting)
+
+
+
+below is the task link:
+
+
+1. https://www.linkedin.com/posts/anuganti-suresh-9aa17822_prediction-using-supervised-ml-activity-6741059512364609536-_Vdz              ----   Task-1
+
+2. https://www.linkedin.com/posts/anuganti-suresh-9aa17822_youtube-activity-6742861420242849792-5mo5                                     ----   Task-2
+
+3. https://www.linkedin.com/feed/update/urn:li:activity:6744684063644381184/                                                             ----   Task-3
+
+4. https://www.linkedin.com/posts/anuganti-suresh-9aa17822_eda-on-dataset-global-terrorism-activity-6745407687292530688-KJ-5             ----   Task-4
+
+5. https://www.linkedin.com/posts/anuganti-suresh-9aa17822_eda-on-indian-premier-league-activity-6743961737055346688-DOh1                ----   Task-5
+
+6. https://www.linkedin.com/posts/anuganti-suresh-9aa17822_iris-dataset-visualizing-graphically-activity-6743577061337759744-YvLJ        ----   Task-6
+
+
+
+
+
+  https://www.linkedin.com/posts/uday-bhuvad-533ba11a3_gripdec20-thesparksfoundation-datascience-activity-6744132288918892544-kMI7
+
+  https://www.linkedin.com/posts/satyarthanurup_gripdec20-task1-linear-regression-ml-activity-6741308254703505408-numa
+
+  https://www.linkedin.com/posts/srishti-kumari-lsr_srishtikumarigriptask6prediction-using-activity-6744148791781322752-6J7L
+
+
+
+Hello Everyone!
+I have completed GRIP Task 6 (Prediction Using Decision Tree Algorithm) which is a part of Data Science & Business Analytics Internship at The Sparks Foundation .
+In this video, I created the Decision tree classifier and visualized it graphically. Even if we feed new data to this classifier, it would be able to predict the right class accordingly. #ml #analytics #dataanalytics
+
+Youtube link: https://lnkd.in/e9MT4dH
+
+Github Repo: https://lnkd.in/ewvWnzT
+
+#github #datascience #machinelearning #supervisedlearning #businessanalytics #python #GRIPDEC2020 #internship
+#video #decisiontree
+
+
+
+Improved my connections by inviting relevant domain people. Updated my basic information in "About". Added new projects. Recommendations received from collogues. Activities improved by appreciation & comments. New companies follow increased.
